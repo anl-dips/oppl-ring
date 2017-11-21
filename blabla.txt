@@ -7,7 +7,7 @@ Sykmelding journalmaler/dokumentmaler:
     ,'utvagk+0000000822846' --4 Anamnese
     ,'utvagk+0000000822848' --5 Status
     ,'utvagk+0000000822850' --6 Fosterdiagnostikk
-    ,'utvagk+0000000822852' --7 Gjennomføring
+    ,'utvagk+00000008sdfgg' --7 Gjennomføring
     ,'utvagk+0000000822854' --Rapportdokument
     ,'utvagk+0000000822835' --Sykmelding
     )
