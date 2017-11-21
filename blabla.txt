@@ -1,1 +1,1 @@
-nå blir det konflikt!
+en commit
