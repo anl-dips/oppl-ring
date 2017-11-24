@@ -6,8 +6,8 @@ Sykmelding journalmaler/dokumentmaler:
     ,'utvagk+0000000822844' --3 Personlig informasjon
     ,'utvagk+0000000822846' --4 Anamnese
     ,'utvagk+0000000822848' --5 Status
-    ,'utvagk+0000000822850' --6 Fosterdiagnostikk
-    dhføudsahfiuhdsaføsadhfhf
+    ,'utvagdsfgdfgfgk+0000000822850' --6 Fosterdiagnostikk
+    ddhfhfdsgsdfgfhføudsfgfdsgdsahfiuhdsaføsa
     ,'utvagk+0000000822854' --Rapportdokument
     ,'utvagk+0000000822835' --Sykmelding
     )
